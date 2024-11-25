@@ -1,2 +1,3 @@
 SARA: HOY ES LUNES 
 Hiy lunes
+1.- Que es git init?
