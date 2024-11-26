@@ -1,4 +1,7 @@
 SARA: HOY ES LUNES 
+
 Hoy lunes
 
-Sara: Qué es git remote? 
+1.- Que es git init?
+
+Sara: Para inicializar un nuevo repositorio 
