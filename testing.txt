@@ -6,3 +6,5 @@ Hoy lunes
 
 Sara: Para inicializar un nuevo repositorio 
 2.- ¿Cómo se realiza un commit?
+
+3.-¿Cómo se crea una nueva rama?
