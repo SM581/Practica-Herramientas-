@@ -2,9 +2,10 @@ SARA: HOY ES LUNES
 
 Hoy lunes
 
-1.- Qué es git init?
+ Miguel:¿Qué es git init?
 
 Sara: Para inicializar un nuevo repositorio 
-2.- ¿Cómo se realiza un commit?
 
-3.-¿Cómo se crea una nueva rama?
+ Miguel:¿Cómo se realiza un commit?
+
+ Miguel¿Cómo se crea una nueva rama?
