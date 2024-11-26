@@ -1,2 +1,4 @@
 SARA: HOY ES LUNES 
-Hiy lunes
+Hoy lunes
+
+Sara: Qué es git remote? 
