@@ -2,6 +2,7 @@ SARA: HOY ES LUNES
 
 Hoy lunes
 
-1.- Que es git init?
+1.- Qué es git init?
 
 Sara: Para inicializar un nuevo repositorio 
+2.- ¿Cómo se realiza un commit?
