@@ -17,3 +17,4 @@ Miguel:¿Cómo bajar cambios del repositorio remoto?
 Sara: Con el comando git pull 
 
 Miguel: ¿Qué comando se usa para descartar cambios locales?
+Sara: git checkout -- <nombre_del_archivo>
