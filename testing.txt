@@ -15,3 +15,5 @@ Para cambiar a otra rama en Git, se utiliza el comando git checkout o git switch
 
 Miguel:¿Cómo bajar cambios del repositorio remoto?
 Sara: Con el comando git pull 
+
+Miguel: ¿Qué comando se usa para descartar cambios locales?
