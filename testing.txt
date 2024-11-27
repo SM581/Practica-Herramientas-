@@ -11,3 +11,4 @@ Sara: Para inicializar un nuevo repositorio
 Sara: Una nueva "instantánea" del estado del proyecto, con un mensaje descriptivo que documenta qué cambios se realizaron.
 
 Miguel: ¿Cómo cambiar a otra rama?
+Para cambiar a otra rama en Git, se utiliza el comando git checkout o git switch
