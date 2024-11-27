@@ -8,4 +8,4 @@ Sara: Para inicializar un nuevo repositorio
 
  Miguel:¿Cómo se realiza un commit?
 
- Miguel¿Cómo se crea una nueva rama?
+
