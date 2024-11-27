@@ -12,3 +12,5 @@ Sara: Una nueva "instantánea" del estado del proyecto, con un mensaje descripti
 
 Miguel: ¿Cómo cambiar a otra rama?
 Para cambiar a otra rama en Git, se utiliza el comando git checkout o git switch
+
+Miguel:¿Cómo bajar cambios del repositorio remoto?
